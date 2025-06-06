@@ -1,0 +1,51 @@
+body{background-color:rgb(226, 148, 30);
+     padding: 3%;
+     border: 3%;
+     text-align:justify;
+    }
+
+h1{text-align:left;
+   font-family: cursive;
+   font-size: 40;
+   color: rgb(117, 3, 3);}
+
+h2{text-align:center;
+   font-family: cursive;
+   font-size: 35;
+   color: rgb(3, 3, 44); 
+  }
+
+h3{text-align: left;
+   font-family: cursive;
+   font-size: 30;
+   color: brown;
+   }
+
+h4{text-align: left;
+   color: rgb(17, 1, 1);
+   }
+
+h5{text-align: center;
+    color: rgb(71, 2, 29);
+    font-family: serif;}
+
+#short{text-align:left;
+       font-family: fantasy;
+       color: rgb(32, 61, 224);
+    }
+
+#history{text-align: center;
+         font-family:monospace;
+         color: rgb(3, 48, 3);
+        }
+
+#procession{text-align: justify;
+            color: blanchedalmond;
+            }
+
+#thoughts{text-align: center;
+          font-family: inherit;
+         }
+
+#form{text-align: center;
+     }
